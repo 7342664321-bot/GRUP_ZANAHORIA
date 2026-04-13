@@ -1,5 +1,5 @@
 ---
-title: "."
+title: "Inicio"
 ---
 
 # Influencia de la luz en la germinación de semillas de zanahoria (*Daucus carota*)
@@ -42,6 +42,10 @@ Se emplearon 12 unidades experimentales, con 6 repeticiones por tratamiento, eva
 
 ------------------------------------------------------------------------
 
-<https://docs.google.com/spreadsheets/d/1ujeHbr-c-CVUvgb6kQjHfwlQgte9pFleIiTNij859pc/edit?gid=1058342564#gid=1058342564>
+<https://docs.google.com/spreadsheets/d/1jhF2lV6rksG_t3W5OkBvq6jgzAiZ78nCOap2Bf8QarQ/edit?gid=1844291628#gid=1844291628>
 
 ## Etiquetas
+
+![](labels_page-0001.jpg)
+
+![](labels_page-0002.jpg)
