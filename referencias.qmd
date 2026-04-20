@@ -2,7 +2,10 @@
 title: "Referencias"
 ---
 
-# Influencia de la luz en la germinación de semillas de zanahoria
+Baskin, C. C., & Baskin, J. M. (2014). Seeds: Ecology, biogeography, and evolution of dormancy and germination (2nd ed.). Academic Press.
 
-Bienvenido a mi sitio web experimental.
+Fenner, M., & Thompson, K. (2005). The ecology of seeds. Cambridge University Press.
 
+Finch-Savage, W. E., & Leubner-Metzger, G. (2006). Seed dormancy and the control of germination. New Phytologist, 171(3), 501–523. <https://doi.org/10.1111/j.1469-8137.2006.01787.x>
+
+Franklin, K. A., & Quail, P. H. (2010). Phytochrome functions in Arabidopsis development. Journal of Experimental Botany, 61(1), 11–24. <https://doi.org/10.1093/jxb/erp304>

@@ -2,7 +2,26 @@
 title: "Objetivos"
 ---
 
-# Influencia de la luz en la germinación de semillas de zanahoria
+![](https://coworkingfy.com/wp-content/uploads/2020/03/M%C3%A9todos-para-definir-objetivos.jpg){width="612"}
 
-Bienvenido a mi sitio web experimental.
+# General
 
+Evaluar la influencia de la luz en la germinación de semillas de zanahoria (*Daucus carota*) mediante un diseño completamente al azar.
+
+# Especificos
+
+1.  Determinar el porcentaje de germinación de semillas de zanahoria bajo condiciones de presencia y ausencia de luz.
+
+2.  Evaluar la longitud de la radícula de las plántulas al séptimo día después de la siembra.
+
+3.  Comparar el efecto de la luz sobre la germinación y el crecimiento inicial entre los tratamientos evaluados.
+
+4.  Analizar estadísticamente las diferencias en las variables estudiadas mediante un diseño completamente al azar (DCA) utilizando pruebas inferenciales.
+
+# Hipótesis
+
+-   **Hipótesis nula (H₀):**\
+    La luz no influye significativamente en la germinación ni en la longitud de la radícula de semillas de zanahoria (*Daucus carota*), por lo que no existen diferencias estadísticas entre los tratamientos con luz y sin luz.
+
+-   **Hipótesis alternativa (H₁):**\
+    La luz influye significativamente en la germinación y en la longitud de la radícula de semillas de zanahoria (*Daucus carota*), existiendo diferencias estadísticas entre los tratamientos con luz y sin luz.

@@ -1,7 +1,63 @@
 ---
-title: "Analisis"
+title: " Analisis "
+author: "Josue Jhonatan colunche Vasquez"
+format:
+  html:
+    toc: true
+    toc-expand: true
+    toc-depth: 4
+    toc-location: left
+    number-sections: true
+    self-contained: true
+    code-fold: true
+    output-file: "ESM"
+editor_options: 
+  chunk_output_type: console
+execute: 
+  warning: false
+  message: false
+  echo: true
 ---
 
-# Influencia de la luz en la germinación de semillas de zanahoria
+# Project Setup
 
-Bienvenido a mi sitio web experimental.
+```{r}
+#| label:  setup
+
+source('https://inkaverse.com/setup.r')
+```
+
+# Data import
+
+```{r}
+gs <- "https://docs.google.com/spreadsheets/d/1jhF2lV6rksG_t3W5OkBvq6jgzAiZ78nCOap2Bf8QarQ/edit?gid=1844291628#gid=1844291628" %>% 
+  as_sheets_id()
+
+fb <- gs %>% 
+  range_read(ss = .,sheet = "fb")
+```
+
+# Research Objective
+
+```{r}
+
+fb <- fb %>%
+  mutate(
+    luz    = as.factor(luz),
+    ntreat = as.factor(ntreat),
+    rep    = as.factor(rep),
+    plots  = as.factor(plots),
+    rows   = as.factor(rows),
+    cols   = as.factor(cols)
+  )
+
+str(fb)
+#view(fb)
+
+```
+
+
+
+
+
+
