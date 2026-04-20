@@ -1,9 +1,6 @@
 ---
 title: "Introdución"
 ---
-
-# Introduccion
-
 La germinación de semillas es una fase determinante en el establecimiento de los cultivos, ya que condiciona la emergencia y el desarrollo inicial de las plántulas. Este proceso está regulado por diversos factores ambientales, entre los cuales destacan la temperatura, la humedad y la luz, siendo esta última un estímulo clave en la activación de mecanismos fisiológicos y bioquímicos asociados al inicio de la germinación (Finch-Savage & Leubner-Metzger, 2006). La luz actúa principalmente a través del sistema de fitocromos, los cuales perciben cambios en la calidad y cantidad de radiación, regulando la expresión génica y favoreciendo la ruptura de la latencia en distintas especies vegetales (Franklin & Quail, 2010).
 
 En semillas de tamaño pequeño, como las de la zanahoria (Daucus carota), la respuesta a la luz suele ser más evidente debido a sus limitadas reservas nutricionales, lo que las hace más dependientes de señales ambientales externas para asegurar su establecimiento (Baskin & Baskin, 2014). En este sentido, la luz puede actuar como un factor promotor en semillas fotoblásticas positivas, incrementando significativamente los porcentajes de germinación en comparación con condiciones de oscuridad (Fenner & Thompson, 2005).
