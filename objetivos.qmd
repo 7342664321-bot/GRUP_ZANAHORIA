@@ -18,19 +18,5 @@ Evaluar la influencia de la luz en la germinación de semillas de zanahoria (*Da
 
 4.  Evaluar el índice de sincronización de la germinación (Synchronization Index, syn) en función de la disponibilidad de luz.
 
-# Hipótesis
 
-- **Hipótesis nula (H₀):**\
-::: {style="text-align: justify;"}
-
- La luz no influye significativamente en la germinación ni en la longitud de la radícula de semillas de zanahoria (*Daucus carota*), por lo que no existen diferencias estadísticas entre los tratamientos con luz y sin luz.
- 
-:::
-
-- **Hipótesis alternativa (H₁):**\
-::: {style="text-align: justify;"}
-
-  La luz influye significativamente en la germinación y en la longitud de la radícula de semillas de zanahoria (*Daucus carota*), existiendo diferencias estadísticas entre los tratamientos con luz y sin luz.
- 
-:::
 
