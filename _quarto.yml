@@ -13,7 +13,7 @@ website:
 
     left:
       - href: index.qmd
-        icon: house-door-fill
+        text: "Inicio"
       - text: "Introducción"
         href: introduccion.qmd
       - text: "Objetivos"
@@ -44,5 +44,5 @@ format:
       light: cosmo
       dark: darkly
     toc: true
-    number-sections: true
+    number-sections: false
     code-copy: true

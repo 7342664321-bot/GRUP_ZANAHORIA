@@ -10,18 +10,27 @@ Evaluar la influencia de la luz en la germinación de semillas de zanahoria (*Da
 
 # Especificos
 
-1.  Determinar el porcentaje de germinación de semillas de zanahoria bajo condiciones de presencia y ausencia de luz.
+1.  Determinar el número de semillas germinadas (Germinated seeds, grs) bajo condiciones de presencia y ausencia de luz.
 
-2.  Evaluar la longitud de la radícula de las plántulas al séptimo día después de la siembra.
+2.  Evaluar el porcentage de germinacion (Germinability, grp)
 
-3.  Comparar el efecto de la luz sobre la germinación y el crecimiento inicial entre los tratamientos evaluados.
+3.  Estimar el tiempo medio de germinación (Mean Germination Time, mgt) en semillas de zanahoria.
 
-4.  Analizar estadísticamente las diferencias en las variables estudiadas mediante un diseño completamente al azar (DCA) utilizando pruebas inferenciales.
+4.  Evaluar el índice de sincronización de la germinación (Synchronization Index, syn) en función de la disponibilidad de luz.
 
 # Hipótesis
 
--   **Hipótesis nula (H₀):**\
-    La luz no influye significativamente en la germinación ni en la longitud de la radícula de semillas de zanahoria (*Daucus carota*), por lo que no existen diferencias estadísticas entre los tratamientos con luz y sin luz.
+- **Hipótesis nula (H₀):**\
+::: {style="text-align: justify;"}
 
--   **Hipótesis alternativa (H₁):**\
-    La luz influye significativamente en la germinación y en la longitud de la radícula de semillas de zanahoria (*Daucus carota*), existiendo diferencias estadísticas entre los tratamientos con luz y sin luz.
+ La luz no influye significativamente en la germinación ni en la longitud de la radícula de semillas de zanahoria (*Daucus carota*), por lo que no existen diferencias estadísticas entre los tratamientos con luz y sin luz.
+ 
+:::
+
+- **Hipótesis alternativa (H₁):**\
+::: {style="text-align: justify;"}
+
+  La luz influye significativamente en la germinación y en la longitud de la radícula de semillas de zanahoria (*Daucus carota*), existiendo diferencias estadísticas entre los tratamientos con luz y sin luz.
+ 
+:::
+

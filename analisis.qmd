@@ -1,13 +1,12 @@
 ---
 title: " Analisis "
-author: "Josue Jhonatan colunche Vasquez"
 format:
   html:
     toc: true
     toc-expand: true
     toc-depth: 4
     toc-location: left
-    number-sections: true
+    number-sections: false
     self-contained: true
     code-fold: true
     output-file: "ESM"
@@ -19,45 +18,27 @@ execute:
   echo: true
 ---
 
-# Project Setup
+## Procesamiento y análisis de datos
 
-```{r}
-#| label:  setup
+El análisis de los datos experimentales se realizó utilizando herramientas estadísticas en el entorno R, empleando el paquete **GerminaQuant**, el cual permite evaluar parámetros relacionados con la germinación de semillas de manera eficiente.
 
-source('https://inkaverse.com/setup.r')
-```
+Este software facilitó el procesamiento de los datos obtenidos en campo, permitiendo calcular estadísticas descriptivas, generar visualizaciones y analizar el comportamiento de la germinación bajo diferentes condiciones experimentales.
 
-# Data import
+## ¿Que es GerminaQuant?
 
-```{r}
-gs <- "https://docs.google.com/spreadsheets/d/1jhF2lV6rksG_t3W5OkBvq6jgzAiZ78nCOap2Bf8QarQ/edit?gid=1844291628#gid=1844291628" %>% 
-  as_sheets_id()
+![](https://tse2.mm.bing.net/th/id/OIP.PRCdNxpDeVESDtx5rz8dKAHaHa?pid=Api&P=0&h=180){width="172"}
 
-fb <- gs %>% 
-  range_read(ss = .,sheet = "fb")
-```
+GerminaQuant para R facilita enormemente el cálculo de índices de germinación mediante una aplicación web interactiva desarrollada en R. ¡La aplicación GerminaQuant es reactiva! Los resultados cambian instantáneamente a medida que los usuarios modifican las entradas. Las principales características de la aplicación permiten calcular los principales índices de germinación, realizar análisis estadísticos y graficar los resultados fácilmente .
 
-# Research Objective
+## Desarrollo
 
-```{r}
+Factor : luz
 
-fb <- fb %>%
-  mutate(
-    luz    = as.factor(luz),
-    ntreat = as.factor(ntreat),
-    rep    = as.factor(rep),
-    plots  = as.factor(plots),
-    rows   = as.factor(rows),
-    cols   = as.factor(cols)
-  )
+**Variables**
 
-str(fb)
-#view(fb)
-
-```
-
-
-
-
-
-
+| Variable                        | Abreviatura | Unidades | Límites |
+|---------------------------------|-------------|----------|---------|
+| **Semillas germinadas**         | grs         | conteo   | —       |
+| **Germinabilidad**              | grp         | \%       | —       |
+| **Tiempo medio de germinación** | mgt         | tiempo   | —       |
+| **Índice de sincronización**    | syn         | —        | —       |

@@ -1,42 +1,90 @@
 ---
-title: "Inicio"
+title: ""
 ---
 
-# Influencia de la luz en la germinación de semillas de zanahoria (*Daucus carota*)
+:::: {style="text-align: center; margin-top: 30px;"}
+
+::: {style="font-size: 30px; font-weight: 800; color: #1f2d3d; line-height: 1.2; text-transform: uppercase;"}
+UNIVERSIDAD NACIONAL TORIBIO  
+RODRÍGUEZ DE MENDOZA DE AMAZONAS
+:::
+
+::::
+
+<br>
+
+::: {style="text-align: center;"}
+![](https://upload.wikimedia.org/wikipedia/commons/9/95/Logo-2016-solo-ok.png){width="4.8cm"}
+:::
+
+<br>
+
+:::: {style="text-align: center; margin-top: 20px;"}
+
+::: {style="font-size: 25px; font-weight: 800; color: #1f2d3d; line-height: 1.2; text-transform: uppercase;"}
+FACULTAD DE INGENIERÍA Y CIENCIAS AGRARIAS  
+ESCUELA PROFESIONAL DE INGENIERÍA AGRÓNOMA
+:::
+
+::::
+
+<br>
+
+<div style="text-align: center;">
+
+# INTEGRANTES
+
+</div>
+
+<br>
+
+| Integrante | % de participación |
+|---|---|
+| Colunche Vásquez Josué Jhonatan | 100% |
+| Huamán Rimarachín Milver | 100% |
+| Tuesta Chichipe Aracely | 100% |
+| Vásquez Guevara Jheferson | 100% |
+| Visalot Chappa Jhener Ivan | 100% |
+
+
+::: {style="width: 60%; margin: auto; background-color: #f3f3f3; padding: 20px; border-radius: 12px; text-align: center; font-size: 18px;"}
+
+
+:::
+
+<br>
+
+::: {style="text-align: center;"}
+
+## DOCENTE
+
+Dr.  Lozano Isla, Flavio
+
+<br>
+
+## CURSO
+
+Producción y Tecnología de Semillas
+
+<br>
+
+## CICLO ACADÉMICO
+
+2026 - I
+
+:::
 
 ------------------------------------------------------------------------
 
-![](http://hablemosdeculturas.com/wp-content/uploads/2018/08/sembrar-zanahorias-1.jpg)
+## Resumen del experimento
 
-## Descripción del estudio
+El presente estudio evaluó la influencia de la luz sobre la germinación de semillas de zanahoria (*Daucus carota*), utilizando un diseño completamente al azar (DCA) con dos tratamientos: presencia y ausencia de luz.
 
-Este experimento tuvo como objetivo evaluar la influencia de la luz en la germinación de semillas de zanahoria, bajo un diseño completamente al azar (DCA), con dos tratamientos: presencia de luz y ausencia de luz.
+Se establecieron 12 unidades experimentales, con 6 repeticiones por tratamiento, evaluando variables relacionadas con el porcentaje y velocidad de germinación.
 
-Se emplearon 12 unidades experimentales, con 6 repeticiones por tratamiento, evaluando el porcentaje de germinación y el comportamiento de las semillas en cada condición.
-
-------------------------------------------------------------------------
-
-## Diseño experimental
-
--   Diseño: Completamente al azar (DCA)\
--   Tratamientos:
-    -   T1: Con luz\
-    -   T2: Sin luz\
--   Repeticiones: 6 por tratamiento
--   Total de unidades experimentales: 12
+![](images/03.jfif){width="584"}
 
 ------------------------------------------------------------------------
-
-## Integrantes
-
-| Alumno                          | \% de participación |
-|---------------------------------|---------------------|
-| Colunche Vasquez Josué Jhonatan |                     |
-| Huaman Rimarachin Milver        |                     |
-| Tuesta Chichipe Aracely         |                     |
-| Vasquez GuevaraJheferson Yoel   |                     |
-| Visalot Chappa Jheiner Ivan     |                     |
-|                                 |                     |
 
 ## Libro de campo
 

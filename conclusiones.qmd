@@ -2,6 +2,18 @@
 title: "Conclusiones"
 ---
 
-# Influencia de la luz en la germinación de semillas de zanahoria
+1.  ::: {style="text-align: justify;"}
+    La luz influye en la germinación de semillas de zanahoria, evidenciándose diferencias en el comportamiento germinativo entre tratamientos con luz y oscuridad, lo cual confirma su carácter fotoblástico positivo.
+    :::
 
-Bienvenido a mi sitio web experimental.
+2.  ::: {style="text-align: justify;"}
+    Aunque el número de semillas germinadas (grs) fue alto en todos los tratamientos y sin diferencias estadísticas significativas, la presencia de luz favoreció una mejor expresión del potencial germinativo.
+    :::
+
+3.  ::: {style="text-align: justify;"}
+    El porcentaje de germinación (grp) fue elevado (promedio 94.6 %), alcanzando valores máximos (100 %) principalmente en tratamientos con luz, lo que demuestra que este factor mejora la eficiencia germinativa.
+    :::
+
+4.  ::: {style="text-align: justify;"}
+    El tiempo medio de germinación (mgt) y el índice de sincronización (syn) indican que la germinación ocurrió de manera relativamente rápida y uniforme, siendo la luz un factor que contribuye a una mayor sincronía en el proceso.
+    :::

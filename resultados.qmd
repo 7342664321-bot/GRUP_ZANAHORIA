@@ -2,6 +2,12 @@
 title: "Resultados"
 ---
 
-# Influencia de la luz en la germinación de semillas de zanahoria
+## Evaluación de Variables
 
-Bienvenido a mi sitio web experimental.
+![](images/1004.png){fig-align="center"}
+
+![](images/1003.png){fig-align="center"}
+
+![](images/1002.png){fig-align="center"}
+
+![](images/1001.png){fig-align="center"}
